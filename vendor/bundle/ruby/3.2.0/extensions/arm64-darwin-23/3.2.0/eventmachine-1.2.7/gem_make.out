@@ -1,0 +1,19 @@
+current directory: /Users/hjchoi/repo/workspace/catsndogs0624.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/hjchoi/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/hjchoi/repo/workspace/catsndogs0624.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251017-40822-3l46ft sitelibdir\=./.gem.20251017-40822-3l46ft clean
+
+current directory: /Users/hjchoi/repo/workspace/catsndogs0624.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251017-40822-3l46ft sitelibdir\=./.gem.20251017-40822-3l46ft
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/hjchoi/repo/workspace/catsndogs0624.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251017-40822-3l46ft sitelibdir\=./.gem.20251017-40822-3l46ft install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20251017-40822-3l46ft
+
+current directory: /Users/hjchoi/repo/workspace/catsndogs0624.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251017-40822-3l46ft sitelibdir\=./.gem.20251017-40822-3l46ft clean
